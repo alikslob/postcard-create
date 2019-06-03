@@ -34,3 +34,5 @@ node_modules
 
 # Compiled bundles
 public/bundle.js
+
+.idea/*
